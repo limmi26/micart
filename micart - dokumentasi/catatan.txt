@@ -1,0 +1,49 @@
+toko buku :
+--- pembeli buku
+--- produk buku
+--- 
+
+backend :
+--- nodemon -g
+--- npm i - g nodemon
+--- node.js
+--- express
+--- body parser
+--- cors
+--- mysql
+
+    cara buat backend :
+    1. buat folder
+    2. buka foldernya diVSC
+    3. npm init -y
+    4. npm i express body-parser mysql cors
+
+database :
+1. pembeli buku(tabel: pembeli) -
+    id(int)
+    no_anggota(string)
+    nama(string)
+    username(string)
+    password(string)
+    created_by(tanggal)
+    updated_by(tanggal)
+
+2. produk buku(tabel: produk) -
+    id(int)
+    nomor_produk(string)
+    judul_buku(string)
+    jumlah_halaman(string)
+    genre(string)
+    penerbit(string)
+    tahun(string)
+    pengarang(string)
+    ISBN(string)
+    harga(string)
+    diskon(string)
+    created_by(tanggal)
+    updated_by(tanggal)
+
+
+frontend :
+--- 
+--- 

@@ -1,0 +1,15 @@
+BRD(Business Requirement Document)
+    1. User Story/User Case
+    2. register a.  - username
+                    - password
+                    - email/nomor telepon
+                b. email/google
+                c. facebook/twitter
+    3. login
+    4. setting/profile
+    5. beli buku
+    6. searching
+    7. filer
+    8. log out
+
+    

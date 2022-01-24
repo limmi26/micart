@@ -18,6 +18,8 @@ backend :
     3. npm init -y
     4. npm i express body-parser mysql cors
 
+    
+
 database :
 1. pembeli buku(tabel: pembeli) -
     id(int)
@@ -25,8 +27,10 @@ database :
     nama(string)
     username(string)
     password(string)
+    role(string)
     created_by(tanggal)
     updated_by(tanggal)
+    
 
 2. produk buku(tabel: produk) -
     id(int)
